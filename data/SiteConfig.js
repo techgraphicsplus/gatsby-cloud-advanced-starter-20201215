@@ -1,6 +1,6 @@
 const config = {
   siteTitle: "Tech Graphics Plus", // Site title.
-  siteTitleShort: "Tech Graphics +", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
+  siteTitleShort: "TechGraphics+", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "Tech Graphics Plus - Responsive and Secure Websites", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
   siteUrl: "https://gatsby-advanced-starter-demo.netlify.com", // Domain of your website without pathPrefix.
@@ -39,7 +39,7 @@ const config = {
       iconClassName: "fa fa-envelope",
     },
   ],
-  copyright: "Copyright © 2004-2020 Tech Graphics Plus.", // Copyright string for the footer of the website and RSS feed.
+  copyright: "© Copyright 2004-2020 Tech Graphics Plus", // Copyright string for the footer of the website and RSS feed.
   themeColor: "#c62828", // Used for setting manifest and progress theme colors.
   backgroundColor: "#e0e0e0", // Used for setting manifest background color.
 };
