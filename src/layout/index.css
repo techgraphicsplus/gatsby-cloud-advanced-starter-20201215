@@ -11,6 +11,7 @@ body {
   padding: 0;
   min-height: 100%;
   min-width: 100%;
+  font-family: 'Mulish', 'Muli', 'Helvetica', 'Arial', sans-serif;
 }
 
 #___gatsby #gatsby-focus-wrapper {
