@@ -66,7 +66,7 @@ module.exports = {
         trackingId: config.googleAnalyticsID,
       },
     },
-    {
+   /** {
       resolve: `gatsby-plugin-prefetch-google-fonts`,
       options: {
         fonts: [{
@@ -74,7 +74,7 @@ module.exports = {
           variants: [`200`, `300`, `400`, `500`, `600`, `700`,`800`, `900`]
         }],
       },
-    }
+    }**/
     {
       resolve: "gatsby-plugin-nprogress",
       options: {
