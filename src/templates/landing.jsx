@@ -13,7 +13,7 @@ function Landing({ data }) {
       <div className="landing-container">
         <div className="posts-container">
           <Helmet title={config.siteTitle} />
-          <SEO />
+          <SEO /><h3>Insert heading</h3>
           <PostListing postEdges={postEdges} />
         </div>
       </div>
